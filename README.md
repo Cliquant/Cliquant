@@ -1,4 +1,4 @@
-<h3 align="center">Cliquant</h3>
+<h2 align="center">Cliquant</h2>
 
 <p align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliquant&label=Profile%20views&color=0e75b6&style=flat" alt="cliquant" /> </p>
