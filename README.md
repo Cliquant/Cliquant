@@ -1,6 +1,7 @@
 <h3 align="center">Cliquant</h3>
 
 <p align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliquant&label=Profile%20views&color=0e75b6&style=flat" alt="cliquant" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
